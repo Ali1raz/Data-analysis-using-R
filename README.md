@@ -39,26 +39,26 @@ Whether you're a student learning R for the first time or brushing up on specifi
 
 | Topic | Link |
 |-------|------|
-| Regression Concepts Overview | [module-4/README.md](module-4/README.md) |
-| Simple Linear Regression | [module-4/simple linear regression.md](module-4/simple%20linear%20regression.md) |
-| Multiple Linear Regression | [module-4/multiple linear regression.md](module-4/multiple%20linear%20regression.md) |
-| Logistic Regression | [module-4/logistic regression.md](module-4/logistic%20regression.md) |
+| Regression Concepts Overview | [module-4/README.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-4.1/module-4/README.md) |
+| Simple Linear Regression | [module-4/simple linear regression.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-4.2/module-4/simple%20linear%20regression.md) |
+| Multiple Linear Regression | [module-4/multiple linear regression.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-4.3/module-4/multiple%20linear%20regression.md) |
+| Logistic Regression | [module-4/logistic regression.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-4.3-1/module-4/logistic%20regression.md) |
 
 ### Charts (ggplot2 Reference)
 
 | Topic | Link |
 |-------|------|
-| Bar Charts | [chart/bar-chart.md](chart/bar-chart.md) |
-| Pie Charts | [chart/pie-chart.md](chart/pie-chart.md) |
-| Histograms & Line Charts | [chart/histogram.md](chart/histogram.md) |
+| Bar Charts | [chart/bar-chart.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-5.1/chart/bar-chart.md) |
+| Pie Charts | [chart/pie-chart.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-5.2/chart/pie-chart.md) |
+| Histograms & Line Charts | [chart/histogram.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-5.3/chart/histogram.md) |
 
 ### Assignments
 
 | Assignment | Link |
 |------------|------|
 | Assignment 1 & 2 — Data Analysis | [Ali1raz/data-analysis-assignment-1-2](https://github.com/Ali1raz/data-analysis-assignment-1-2) |
-| Assignment 3 — Regression Analysis | [assignments/a3.md](assignments/a3.md) |
-| Assignment 4 — Classification | [assignments/a4.md](assignments/a4.md) |
+| Assignment 3 — Regression Analysis | [assignments/a3.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-7.1/assignments/a3.md) |
+| Assignment 4 — Classification | [assignments/a4.md](https://github.com/Ali1raz/Data-analysis-using-R/blob/Ali1raz-patch-7.1/assignments/a4.md) |
 
 ---
 
