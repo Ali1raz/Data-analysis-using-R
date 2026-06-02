@@ -2,7 +2,8 @@
 
 A comprehensive, hands-on guide to data analysis with R — from the basics of R programming and data wrangling through visualization, regression, classification, and neural networks. Each module builds on the previous one with real-world examples, practical code snippets, and built-in datasets (`iris`, `mtcars`, `economics`).
 
-Whether you're a student learning R for the first time or brushing up on specific topics, this repo is structured as a progressive lesson plan with detailed guides and assignments.
+[![Ask DeepWiki about this](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ali1raz/Data-analysis-using-R)
+
 
 ---
 
